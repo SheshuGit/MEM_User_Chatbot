@@ -4,6 +4,10 @@ pymongo==4.6.1
 langchain==0.1.0
 langchain-community==0.0.13
 langchain-groq==0.0.1
+
+# FIXED VERSIONS (guaranteed safe)
 sentence-transformers==3.0.1
+huggingface-hub==0.19.4
+
 faiss-cpu==1.9.0.post1
 python-dotenv==1.0.1
